@@ -32,6 +32,20 @@ Similar App: Sina Weibo Pages
 Pull to refresh listView for android, There is some bug for this  
 Project Address: https://github.com/johannilsson/android-pulltorefresh  
 Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/pull-to-refresh-listview-demo.apk?raw=true   
+
+1. android-Ultra-Pull-to-Refresh    
+It's a replacement for the deprecated pull to refresh solution. It can contain any view you want.
+It's easy to use and more powerful than SwipeRefreshLayout.
+It's well designed, you can customize the UI effect you want as easy as adding a headview to ListView.
+Support `API LEVEL >= 8`
+Project Address: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh   
+Demo Apk: https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh/blob/master/ptr-demo/target/ultra-ptr-demo.apk?raw=true  
+<div>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/contains-all-of-views.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/release-to-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/auto-refresh.gif' width="150px"/>  
+    <img src='http://srain-github.qiniudn.com/ultra-ptr/store-house-string-array.gif' width="150px"/>  
+</div>   
    
 1. DropDownListView  
 Pull to refresh and load more when on bottom listView for android  
@@ -334,7 +348,13 @@ Demo Apk: https://github.com/Trinea/TrineaDownload/blob/master/imageviewex-demo.
 A fast ImageView that supports rounded corners and ovals or circles  
 Project Address: https://github.com/vinc3m1/RoundedImageView  
 Renderings: ![Renderings](https://raw.github.com/makeramen/RoundedImageView/master/screenshot.png)  
-   
+
+1. SelectableRoundedImageView  
+ImageView that supports different radiuses on each corner. It also supports oval(and circle) shape and border.  
+Project Address: https://github.com/pungrue26/SelectableRoundedImageView  
+Demo Apk: https://play.google.com/store/apps/details?id=com.joooonho  
+Renderings: ![Renderings](https://camo.githubusercontent.com/25d2e5fb8783b5dd09c00b03091172a79c69350e/687474703a2f2f692e696d6775722e636f6d2f55355653376d322e706e673f31)  
+
 1. ColorArt  
 iTunes 11-style color matching code for Android, is a library that uses an image to create a themed image/text display  
 Project Address: https://github.com/MichaelEvans/ColorArt  
